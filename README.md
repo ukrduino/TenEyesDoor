@@ -1,5 +1,6 @@
 # TenEyesDoor
 Arduino project for quest room
+
 Скетч для Arduino Mega 2560 для двери с 10 глазами
    Алгоритм работы:
    1. Вкл питания.
